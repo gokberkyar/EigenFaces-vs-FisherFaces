@@ -1,3 +1,3 @@
 # EigenFaces-vs-FisherFaces
-##Course Project with GUI and implementation
+## Course Project with GUI and implementation
 
